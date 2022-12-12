@@ -1,0 +1,19 @@
+{
+  "clientId": "client-Id",
+
+
+  "parentOpened": "parent-Opened",
+  "parentApply": "parent-Apply",
+  "parentSupport": "parent-Support",
+  "parentComplaint": "parent-Complaint",
+  "parentPartnership": "parent-Partnership",
+  "parentHosting": "parent-Hosting",
+
+  "roleSupport": "role-support",
+
+  
+  "logsTicket": "logo-ticket",
+  "ticketChannel": "ticket-cahnnel",
+
+  "footerText": "Support"
+}
