@@ -1,19 +1,18 @@
 {
-  "clientId": "client-Id",
+  "clientId": "id of the bot",
 
 
-  "parentOpened": "parent-Opened",
-  "parentApply": "parent-Apply",
-  "parentSupport": "parent-Support",
-  "parentComplaint": "parent-Complaint",
-  "parentPartnership": "parent-Partnership",
-  "parentHosting": "parent-Hosting",
+  "parentOpened": "id of the category when a ticket is opened",
+  "parentTransactions": "id of the category when a ticket is an ticket transaction",
+  "parentJeux": "id of the category when a ticket is an ticket jeux",
+  "parentAutres": "id of the category when a ticket is an ticket autres",
 
-  "roleSupport": "role-support",
+
+  "roleSupport": "id of the role support",
 
   
-  "logsTicket": "logo-ticket",
-  "ticketChannel": "ticket-cahnnel",
-
-  "footerText": "Support"
+  "logsTicket": "id of the channel of ticket logs",
+  "ticketChannel": "id of the channel where is sended the embed to create a ticket",
+  
+  "footerText": "the footer of the embeds"
 }
